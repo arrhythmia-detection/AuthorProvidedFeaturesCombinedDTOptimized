@@ -14,8 +14,8 @@
 
 #### Author Extracted Features
 
-| Model         | Accuracy (OFFLINE) | Accuracy (ONLINE) | Execution Time (&mu;s) | Memory Used (KB) (Model) | Memory Used (KB) (Total) | Flash Size (KB) (Model) | Flash Size (KB) (Total) | Power consumption | Frequency (DFS OFF) |
+| Model         | Accuracy (OFFLINE) | Accuracy (ONLINE) | Execution Time (&mu;s) | Memory Used (KB) (Model) | Memory Used (KB) (Total) | Flash Size (KB) (Model) | Flash Size (KB) (Total) | Power Consumption | Frequency (DFS OFF) |
 |---------------|--------------------|-------------------|------------------------|--------------------------|--------------------------|-------------------------|-------------------------|-------------------|---------------------|
-| Decision Tree | 90%                | 90%               | 16 (avg)               | 0.108                    | 0.292                    | 2.084                   | 3.522                   | 85 mW (avg)       | 16  MHz             |
+| Decision Tree | 90%                | 90%               | 16 (avg)               | 0.108                    | 0.292                    | 2.084                   | 3.522                   | 44 mW (avg)       | 16  MHz             |
 
 **Note:** While calculating memory and flash we used power of 10 instead of power of 2.
