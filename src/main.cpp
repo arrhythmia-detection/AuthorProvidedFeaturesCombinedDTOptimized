@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include "author_provided_feat_dt_v1.h"
+#include "optimized_author_provided_feat_dt_v1.h"
 
 float inputs[] = {
     60.000000, 1.000000, 58.000000, 58.000000, 72.000000, 454.000000, 445.000000, 23.000000, 30.000000, 10.000000,
@@ -10,7 +10,7 @@ Eloquent::ML::Port::DecisionTree decision_tree;
 
 void setup() {
     Serial.begin(115200);
-    Serial.println("ECG DT");
+    Serial.println("ECG Optimized DT");
     delay(2000);
 }
 
