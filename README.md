@@ -41,7 +41,7 @@ TBA.
 
 &#160;
 
-<div align="center">Copyright &copy; 2024-present 
+<div align="center">Copyright &copy; 2025-present 
      <a href="https://github.com/Inmoresentum" target="_blank">Inmoresentum</a> and Contributors
 </div>
 
