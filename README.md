@@ -22,8 +22,8 @@
             <a href="https://www.jetbrains.com/clion/">
                 <img src="https://img.shields.io/badge/CLion 2024-000000?style=for-the-badge&logo=clion&logoColor=white"  alt="whatever">
             </a>
-            <a href="https://github.com/espressif/arduino-esp32/releases/tag/3.0.7">
-                <img src="https://img.shields.io/badge/Arduino Core 3.0.7-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  alt="whatever">
+            <a href="https://docs.arduino.cc/programming/">
+                <img src="https://img.shields.io/badge/Arduino Framework-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  alt="whatever">
             </a>
             <a href="https://docs.arduino.cc/hardware/uno-rev3/">
                 <img src="https://img.shields.io/badge/Arduino UNO-00979D?style=for-the-badge&logo=Arduino&logoColor=white"  alt="whatever">
