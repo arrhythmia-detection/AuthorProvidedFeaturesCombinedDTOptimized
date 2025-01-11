@@ -37,7 +37,11 @@
         </div>
 </h4>
 
-TBA.
+This is a standard [platformio](https://platformio.org/) project for `uno`
+board which deploys a vanilla [Decision Tree](include/optimized_author_provided_feat_dt_v1.h) (*optimized*) to ATmega328P chip
+and collects necessary performance metrics (see [Collected Metrics](CollectedMetrics.md)).
+For model training etc., please refer to
+[this repository](https://github.com/arrhythmia-detection/ArrhythmiaDetectionModels).
 
 &#160;
 
